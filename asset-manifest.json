@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ztm-complete-react_monsters-rolodex/static/css/main.9a72cdab.css",
+    "main.js": "/ztm-complete-react_monsters-rolodex/static/js/main.136acfb9.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/ztm-complete-react_monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/ztm-complete-react_monsters-rolodex/index.html",
+    "main.9a72cdab.css.map": "/ztm-complete-react_monsters-rolodex/static/css/main.9a72cdab.css.map",
+    "main.136acfb9.js.map": "/ztm-complete-react_monsters-rolodex/static/js/main.136acfb9.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/ztm-complete-react_monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a72cdab.css",
+    "static/js/main.136acfb9.js"
+  ]
+}
